@@ -1,0 +1,54 @@
+[
+  {
+    "serviceName": "service 1",
+    "serviceTime": "time till 11",
+    "days": [
+      {
+        "dayName": "sunday",
+        "day": "time2"
+      },
+      {
+        "dayName": "sun-mon",
+        "day": "time2"
+      },
+      {
+        "dayName": "sun-wed",
+        "day": "time2"
+      },
+      {
+        "dayName": "sat-sun",
+        "day": "time2"
+      },
+      {
+        "dayName": "anyday",
+        "day": "time2"
+      }
+    ]
+  },
+  {
+    "serviceName": "service 2",
+    "serviceTime": "time till 11",
+    "days": [
+      {
+        "dayName": "sunday",
+        "day": "time2"
+      },
+      {
+        "dayName": "sun-mon",
+        "day": "time2"
+      },
+      {
+        "dayName": "sun-wed",
+        "day": "time2"
+      },
+      {
+        "dayName": "sat-sun",
+        "day": "time2"
+      },
+      {
+        "dayName": "anyday",
+        "day": "time2"
+      }
+    ]
+  }
+]
