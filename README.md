@@ -14,3 +14,7 @@ The data is dummy data and is saved in assets folder in .json format
 I fetched the data and parsed the data into JSON object as out data class defined.
 And for two recycler views we are having two corresponding adapters to fill the data into them.
 
+## Please find the APK here
+https://github.com/rags016/RecyclerView/blob/master/app/src/app-debug.apk?fbclid=IwAR1uM5FvE3m1wfOLqmfpNskOmu5L1bvuUnx5s_ovZNF3ogaLUTC23cVd9-o
+
+
