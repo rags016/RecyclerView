@@ -18,3 +18,6 @@ And for two recycler views we are having two corresponding adapters to fill the 
 https://github.com/rags016/RecyclerView/blob/master/app/src/app-debug.apk?fbclid=IwAR1uM5FvE3m1wfOLqmfpNskOmu5L1bvuUnx5s_ovZNF3ogaLUTC23cVd9-o
 
 
+## I haven't used coroutines for fetching data from assets just because I am using less dummy data.
+otherwise we can use coroutines to fetch the data.
+
